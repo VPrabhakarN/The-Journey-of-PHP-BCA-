@@ -7,6 +7,7 @@
        $x = 5;
        
        //now we print both values by calling or printing variables 
-       echo $txt;
+       echo $txt; 
+       echo"<br/>"; //we use "<br/>" for changing or getting new line 
        echo $x;
 ?>
