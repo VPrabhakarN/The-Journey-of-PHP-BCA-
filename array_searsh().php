@@ -4,6 +4,6 @@
       $season = array("Summer", "Mansoon","Winter");
 
       //using 'search()' function 
-      $key - array_search("Winter",$season);
+      $key = array_search("Winter",$season);
       echo $key;
 ?>
